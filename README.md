@@ -7,8 +7,8 @@ Example Web Scraping with Node JS
 
 ### Usage
 `bash
-git clone https://github.com/eksant/web-scraper.git
-cd web-scraper
-yarn or npm install
+git clone https://github.com/eksant/web-scraper.git  
+cd web-scraper  
+yarn or npm install  
 node solution.js
 `
